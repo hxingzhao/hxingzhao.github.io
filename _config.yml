@@ -3,7 +3,7 @@ title: Xingz Blog
 SEOTitle: 星兆的博客 | Xingz Blog
 header-img: img/home-bg.jpg
 email: ithuxingzhao@gmail.com
-description: ""关于前端与设计、动漫 | 星兆，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Xingz星兆 的个人博客，与你一起发现更大的世界。""
+description: "关于前端与设计、动漫 | 星兆，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Xingz星兆 的个人博客，与你一起发现更大的世界。"
 keyword: "星兆, Xingz星兆, Xingz, hxingzhao, @hxingzhao, 星兆的博客, Xingz Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
 url: "https://xingzhao.me"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
