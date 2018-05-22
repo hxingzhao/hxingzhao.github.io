@@ -1,0 +1,51 @@
+---
+layout:     post
+title:      "鱼与熊掌不可兼得"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2018-03-06 10:53:00
+author:     "Xingz"
+header-img: "img/post-bg-2015.jpg"
+catalog:      true
+tags:
+    - 生活
+---
+
+> “Yeah It's on. ”
+
+
+## 前言
+
+喜欢折腾的我就这么把 Blog 开通了
+
+[跳过废话，直接看技术实现 ](#build)
+
+
+
+2018年终于弄了一个自己满意的博客，以后可以好好写点东西了。
+2017年的博客很一般，连接就不放上来了。
+
+
+<p id = "build"></p>
+---
+
+## 正文
+
+接下来说说搭建这个博客的技术细节。  
+
+正好之前就有关注过 [GitHub Pages](https://pages.github.com/) + [Jekyll](http://jekyllrb.com/) 快速 Building Blog 的技术方案，非常轻松时尚。
+
+其优点非常明显：
+
+* **Markdown** 带来的优雅写作体验
+* 非常熟悉的 Git workflow ，**Git Commit 即 Blog Post**
+* 利用 GitHub Pages 的域名和免费无限空间，不用自己折腾主机
+	* 如果需要自定义域名，也只需要简单改改 DNS 加个 CNAME 就好了
+* Jekyll 的自定制非常容易，基本就是个模版引擎
+
+---
+
+## 后记
+
+回顾这个博客的诞生,遇到了很多坑，大多问题都解决了。嗯，坚持就是胜利！
+
+—— Xingz 后记于 2018.03
